@@ -10,7 +10,7 @@ import socket
 import pickle
 import random
 
-
+#hhhjjhhjhjhjhj
 
 def imprime_cuadricula(m, letras):
     raya = '+' + ('-' * 3 + '+') * 15
